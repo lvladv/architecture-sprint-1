@@ -138,3 +138,7 @@ microfrontend
   package.json               // Зависимости и скрипты микрофронтенда
   README.md                  // Описание сервиса
   webpack.config.js
+
+# Задание 2
+
+https://disk.yandex.ru/d/TB2XfXTZ_znyfg (вторая страца DF - microsrvice)
